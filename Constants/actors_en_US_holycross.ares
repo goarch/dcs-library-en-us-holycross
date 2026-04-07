@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = actors_en_US_holycross
 
 ac.Archbishop = ""
+ac.Bishop = ""
 ac.Bishop_Elect = ""
 ac.Candidate_Sponsor = "CATECHUMEN/SPONSOR"
 //ac.Chanter = ""
