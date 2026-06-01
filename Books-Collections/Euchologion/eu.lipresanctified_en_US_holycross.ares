@@ -13,35 +13,35 @@ euPL.Key0107.text = ""
 euPL.Key0108.text = ""
 
 euPL.Key0200.title = "The Divine Liturgy of the Presanctified Gifts"
-euPL.Key0201.text = ""
-euPL.Key0202.text = ""
-euPL.Key0203.text = ""
+euPL.Key0201.rubric = ""
+euPL.Key0202.rubric = ""
+euPL.Key0203.rubric = ""
 
 euPL.Key0204.title = ""
-euPL.Key0205.text = ""
-euPL.Key0205a.text = ""
+euPL.Key0205.rubric = ""
+euPL.Key0205a.rubric = ""
 euPL.Key0206.title = ""
 euPL.Key0207.title = ""
 euPL.Key0208.title = ""
 euPL.Key0209.title = ""
-euPL.Key0210.text = ""
-euPL.Key0210a.text = ""
+euPL.Key0210.rubric = ""
+euPL.Key0210a.rubric = ""
 
 euPL.Key0211.title = "PRAYER OF THE FIRST ANTIPHON"
-euPL.Key0212.text = ""
+euPL.Key0212.rubric = ""
 euPL.Key0213.title = ""
 
 euPL.Key0306.title = "PRAYER OF THE SECOND ANTIPHON"
-euPL.Key0306.text = ""
-euPL.Key0307.text = ""
+euPL.Key0306.rubric = ""
+euPL.Key0307.rubric = ""
 
 euPL.Key0406.title = "PRAYER OF THE THIRD ANTIPHON"
-euPL.Key0406.text = ""
-euPL.Key0407.text = ""
+euPL.Key0406.rubric = ""
+euPL.Key0407.rubric = ""
 
 euPL.Key0506.title = "PRAYER OF THE FOURTH ANTIPHON"
-euPL.Key0506.text = ""
-euPL.Key0507.text = ""
+euPL.Key0506.rubric = ""
+euPL.Key0507.rubric = ""
 
 euPL.Key0600.title = ""
 
@@ -52,11 +52,11 @@ euPL.Key0702.text = "shines upon all."
 euPL.MM.Key0800.text = "" //for media
 
 euPL.Key0900.title = ""
-euPL.Key0900.text = ""
-euPL.Key0900a.text = ""
+euPL.Key0900.rubric = ""
+euPL.Key0900a.rubric = ""
 euPL.Key0901.title = "PRAYER OF THE CATECHUMENS"
-euPL.Key0901.text = "O God, our God, creator and maker of all, You wish all to be saved and to come to the knowledge of the truth. Look upon your servants, the catechumens, and free them from the old error and the devices of the adversary, and call them to life eternal, illumining their souls and bodies, and numbering them among Your rational flock over whom Your holy name is invoked."
-euPL.Key0902.text = properties_en_US_holycross.deprecated.key
+euPL.Key0901.rubric = "O God, our God, creator and maker of all, You wish all to be saved and to come to the knowledge of the truth. Look upon your servants, the catechumens, and free them from the old error and the devices of the adversary, and call them to life eternal, illumining their souls and bodies, and numbering them among Your rational flock over whom Your holy name is invoked."
+euPL.Key0902.rubric = properties_en_US_holycross.deprecated.key
 euPL.Key0903.title = "PRAYER FOR THOSE PREPARING FOR ILLUMINATION"
 euPL.Key0903.text = "Master, shine Your face on those who are preparing for holy illumination, who strongly desire to shake off the defilement of sin. Clear their mind. Confirm them in faith. Strengthen them in hope. Perfect them in love. Make them precious members of Your Christ who gave himself as ransom for our souls."
 euPL.Key0904.text = properties_en_US_holycross.deprecated.key
