@@ -166,7 +166,7 @@ hoCA.Ode9T.incipit = "God took flesh from your…"
 hoCA.Ode9T.text = "God took flesh from your pure blood. Therefore, all generations praise you, Lady, while the hosts of incorporal powers glorify you. For they clearly behold him who rules all things to be endowed with human nature through you."
 
 hoPrayer.Key000.title = "On The Next Day"
-R03 = "After the usual morning prayers say:"
+R03.rubric = "After the usual morning prayers say:"
 hoPrayer.Key001.title = "Then the following hymns."
 hoPrayer.Key001.incipit = oc.m2.d2_en_US_holycross.ocMA.Aposticha2.incipit
 hoPrayer.Key001.text = oc.m2.d2_en_US_holycross.ocMA.Aposticha2.text
@@ -412,7 +412,7 @@ hoPrayer.Key201_3.text = "give immediate praise and great thanks to God,"
 hoPrayer.Key201_4.text = "and say the following with fervent soul:"
 hoPrayer.Key201_5.text = "Glory to you, O God. Glory to you, O God. Glory to you, O God."
 
-R04 = "Then the following thanksgiving prayers:"
+R04.rubric = "Then the following thanksgiving prayers:"
 
 hoPrayer.Key202.title = "Anonymous"
 hoPrayer.Key202.text = "I thank you, Lord, my God, that you have not rejected me, a sinner, but have made me worthy to partake of your holy Mysteries. I thank you that you have permitted me, although I am unworthy, to receive your pure and heavenly gifts. O loving Master, who died and rose for our sake, and granted to us these awesome and life‑giving Mysteries for the well‑being and sanctification of our souls and bodies, let these gifts be for healing of my own soul and body, the averting of every evil, the illumination of the eyes of my heart, the peace of my spiritual powers, a faith unashamed, a love unfeigned, the fulfilling of wisdom, the observing of your commandments, the receiving of your divine grace, and the inheritance of your kingdom. Preserved by them in your holiness, may I always be mindful of your grace and no longer live for myself, but for you, our Master and Benefactor. May I pass from this life in the hope of eternal life, and attain to the everlasting rest, where the voices of your saints who feast are unceasing, and their joy, beholding the ineffable beauty of your countenance, is unending. For you, Christ our God, are the true joy and the inexpressible gladness of those who love you, and all creation praises you forever. Amen."

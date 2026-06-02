@@ -3,17 +3,17 @@ A_Resource_Whose_Name = ho.ho03_en_US_holycross
 hoMA.title = "SERVICE OF MATINS"
 hoMA.MatinsOrdinary.title = ""
 hoMA.MatinsOrdinary.text = ""
-R01 = ""
-R02 = ""
+R01.rubric = ""
+R02.rubric = ""
 hoMA.Troparion3.text = "O awesome and unshamable Protection, O good and praiseworthy Theotokos, do not despise our petitions; make firm the community of the Orthodox; save those whom you have called to rule; grant them victory from heaven, for you gave birth to God and are truly blessed."
-R3 = ""
-R4 = ""
+R3.rubric = ""
+R4.rubric = ""
 SixPsalms.title = "The Six Psalms."
-R6 = ""
-R7 = ""
-R8 = ""
-R9 = "" //(about Lent)
-R10 = ""
+R6.rubric = ""
+R7.rubric = ""
+R8.rubric = ""
+R9.rubric = "" //(about Lent)
+R10.rubric = ""
 
 /*
 hoMA.Triadics.title = ""
@@ -75,12 +75,12 @@ Both
 Triadic3
 */
 
-R12a = ""
-R12b = ""
+R12a.rubric = ""
+R12b.rubric = ""
 
 hoMA.ResEvlog.title1 = ""
 hoMA.ResEvlog.title2 = ""
-R13 = ""
+R13.rubric = ""
 hoMA.ResEvlogVerse.text = ""
 hoMA.ResEvlog1.mode = ""
 hoMA.ResEvlog1.incipit = "…"
@@ -105,7 +105,7 @@ hoMA.ResEvlog7.text = ""
 
 hoMA.FuneralEvlog.title1 = "Evlogetaria for the Dead."
 hoMA.FuneralEvlog.title2 = ""
-R14 = ""
+R14.rubric = ""
 hoMA.FuneralEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
 hoMA.FuneralEvlog1.mode = miscellanea_en_US_holycross.misc.Mode5
 hoMA.FuneralEvlog1.incipit = "The choir of Saints has…"
@@ -141,8 +141,8 @@ hoMA.MM.Magnificat.text = "" //for media of all modes together
 hoMA.Ode9.Meg00.incipit = "It is truly right…"
 hoMA.Ode9.Meg00.text = "It is truly right to call you blest, O Theotokos, the ever-blessed and all-blameless one and the Mother of our God."
 
-R15 = ""
-R16 = "" //(Lent)
+R15.rubric = ""
+R16.rubric = "" //(Lent)
 /*
 Title On Monday
 ending1
@@ -155,9 +155,9 @@ ending
 Title On Thur
 ending
 Title On Sat
-R17
+R17.rubric
 ending
-R18
+R18.rubric
 ending
 
 Title Photogogics
@@ -243,9 +243,10 @@ hoMA.ExapSatTh.melody = he.a.m2_en_US_holycross.heAU.TonMathitonOrontonSe.name
 hoMA.ExapSatTh.incipit = "…"
 hoMA.ExapSatTh.text = //da.d7_en_US_holycross.daMA.ExapTheotokion.text
 
-R19 = ""
-R20 = ""
-R21 = ""
+R19.rubric = ""
+R20.rubric = ""
+R21a.rubric = "The Hierarch descends from the throne and recites the preparatory prayers for the Liturgy, as the Choirs sing:"
+R21b.rubric = "The Hierarch takes “kairon” in preparation for the Divine Liturgy, as the right choir slowly sings “Ton Despotin…” When he is finished, the hierarch blesses the people with the candles, as the left choir sings “Eis polla eti, despota,” and he enters the altar. Then the choirs resume singing Lauds."
 hoMA.LaudsSunTheotokion.text = ""
 
 hoMA.DoxologyGreat.title = ""
@@ -275,10 +276,10 @@ hoMA.DoxologyVerse16.text = ""
 hoMA.DoxologyVerse17.text = ""
 hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = ""
-R22 = ""
+R22.rubric = ""
 hoMA.MM.DoxologyGreatAsmatic.text = ""
 hoMA.DoxologyVerse20.text = ""
-R23 = ""
+R23.rubric = ""
 hoMA.DoxologySmallIntro.text = "To you belongs glory, O Lord our God, and to you we send up glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 hoMA.DoxologySmallEnd.text = "To you belongs praise, to you belongs a hymn, to you belongs glory, to the Father and the Son and the Holy Spirit, now and ever and to the ages of ages. Amen."
 hoMA.SmallDoxology.title = "Doxology"
@@ -291,30 +292,30 @@ hoMA.SmallDoxology2e = "evening"
 hoMA.SmallDoxology2n = "night"
 hoMA.SmallDoxology3.text = "we may be kept without sin. Blessed are you, O Lord, the God of our Fathers, and praised and glorified is your name unto the ages. Amen. Let your mercy, Lord, come upon us, just as we have hoped in you. Blessed are you, O Lord, teach me your commandments. Blessed are you, O Master, make me understand your commandments. Blessed are you, O Holy One, enlighten me with your commandments. Lord, your mercy remains forever, do not turn away from the works of your hands. To you belongs praise, to you belongs a hymn, to you belongs glory, to the Father and the Son and the Holy Spirit, now and ever and to the ages of ages. Amen."
 
-R24 = ""
-R25 = ""
-R26 = ""
-R27 = ""
-R28 = ""
+R24.rubric = ""
+R25.rubric = ""
+R26.rubric = ""
+R27.rubric = ""
+R28.rubric = ""
 hoMA.Apolytikion = ""
-R29 = ""
-R30 = ""
-R31 = ""
-R32 = ""
-R33 = ""
-R34 = ""
-R35 = ""
-R36 = ""
+R29.rubric = ""
+R30.rubric = ""
+R31.rubric = ""
+R32.rubric = ""
+R33.rubric = ""
+R34.rubric = ""
+R35.rubric = ""
+R36.rubric = ""
 hoMA.SunTroparion1.mode = ""
 hoMA.SunTroparion1.incipit = "…"
 hoMA.SunTroparion1.text = ""
-R37 = ""
+R37.rubric = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = ""
 hoMA.SunTroparion2.incipit = "…"
 hoMA.SunTroparion2.text = ""
-R38 = ""
-R39 = ""
+R38.rubric = ""
+R39.rubric = ""
 
 //Order of Matins Gospel
 hoMA.Antiphon11.title = ""
@@ -367,7 +368,7 @@ hoMA.SunPostGospelIdiomelon.text = ""
 hoMA.SunExapVerse1.text = ""
 
 //Triodion specific, not in Horologion
-hoMA.RtrSoS01 = ""
+R40.rubric = ""
 
 //Polyelelos, not in Horologion
 hoMA.MM.PolyeleosPsalm134.text = ""

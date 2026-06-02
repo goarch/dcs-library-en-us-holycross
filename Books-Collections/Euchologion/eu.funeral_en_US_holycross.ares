@@ -132,7 +132,7 @@ euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = ""
 
-euFUN.brightweek.R091 = "Then the Epistle and the Gospel of the day."
+euFUN.brightweek.R091.rubric = "Then the Epistle and the Gospel of the day."
 
 euFUN.Key1000.title = "PRAYERS OF ABSOLUTION"
 euFUN.Key1001.title = "For the loosing from every curse and interdict, read for the deceased person by the Bishop."
@@ -165,8 +165,8 @@ euFUN.Key1105.melody = ""
 euFUN.Key1105.incipit = "…"
 euFUN.Key1105.text = ""
 
-euFUN.brightweek.R111 = "Instead of “Brethren, come and let us a farewell kiss,” we sing the following:"
-euFUN.brightweek.R112 = "Exiting from the church we say:"
+euFUN.brightweek.R111.rubric = "Instead of “Brethren, come and let us a farewell kiss,” we sing the following:"
+euFUN.brightweek.R112.rubric = "Exiting from the church we say:"
 
 euFUN.Key1200.title = "THE BURIAL"
 
